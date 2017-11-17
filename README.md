@@ -1,1 +1,1 @@
-![Travis-CI](https://travis-ci.org/emielvangoor/project-test)
+![Travis-CI](https://travis-ci.org/emielvangoor/project-test.svg?branch=master)
