@@ -3,9 +3,9 @@
 use PHPUnit\Framework\TestCase;
 use Bonsa\TestClass;
 
-class TestClassTest extends TestCase 
+class TestClassTest extends TestCase
 {
-    public function testEmielIsTheName() { 
+    public function testEmielIsTheName() {
         $this->assertEquals(TestClass::nameOfEmiel(), "Emiel van Goor");
     }
 }
